@@ -127,5 +127,9 @@
         "key": "ctrl+f ctrl+e",
         "command": "workbench.files.action.focusOpenEditorsView",
         "when": "workbench.explorer.openEditorsView.active"
+    },
+    {
+        "key": "ctrl+f ctrl+g",
+        "command": "workbench.scm.focus"
     }
 ]
