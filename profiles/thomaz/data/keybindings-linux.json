@@ -118,5 +118,14 @@
         "key": "ctrl+delete",
         "command": "-deleteWordRight",
         "when": "textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+f ctrl+f",
+        "command": "workbench.files.action.focusFilesExplorer"
+    },
+    {
+        "key": "ctrl+f ctrl+e",
+        "command": "workbench.files.action.focusOpenEditorsView",
+        "when": "workbench.explorer.openEditorsView.active"
     }
 ]
