@@ -131,5 +131,15 @@
     {
         "key": "ctrl+f ctrl+g",
         "command": "workbench.scm.focus"
+    },
+    {
+        "key": "ctrl+f ctrl+s",
+        "command": "actions.find",
+        "when": "editorFocus || editorIsOpen"
+    },
+    {
+        "key": "ctrl+f",
+        "command": "-actions.find",
+        "when": "editorFocus || editorIsOpen"
     }
 ]
