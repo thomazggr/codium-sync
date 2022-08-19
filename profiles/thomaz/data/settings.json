@@ -1,7 +1,7 @@
 {
     "workbench.iconTheme": "vscode-icons",
     "vsicons.dontShowNewVersionMessage": true,
-    "workbench.colorTheme": "Dracula",
+    "workbench.colorTheme": "Catppuccin Macchiato",
     "workbench.startupEditor": "none",
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
