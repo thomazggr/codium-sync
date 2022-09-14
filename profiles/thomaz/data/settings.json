@@ -26,6 +26,8 @@
     "editor.wrappingIndent": "indent",
     "editor.wordWrap": "on",
     "html.format.wrapLineLength": 100,
-    "editor.experimental.stickyScroll.enabled": true,
     "r.lsp.diagnostics": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.stickyScroll.enabled": true,
+    "window.zoomLevel": 1,
 }
