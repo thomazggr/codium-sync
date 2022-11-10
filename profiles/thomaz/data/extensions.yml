@@ -10,6 +10,8 @@ enabled:
     uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
   - id: ms-azuretools.vscode-docker
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: ms-python.isort
+    uuid: 4ad0ce32-ff3f-49f0-83b5-93e5dc00cfff
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
   - id: ms-python.vscode-pylance
@@ -20,6 +22,10 @@ enabled:
     uuid: 9f6dc8db-620c-4844-b8c5-e74914f1be27
   - id: ms-toolsai.jupyter-renderers
     uuid: b15c72f8-d5fe-421a-a4f7-27ed9f6addbf
+  - id: ms-toolsai.vscode-jupyter-cell-tags
+    uuid: ab4fb32a-befb-4102-adf9-1652d0cd6a5e
+  - id: ms-toolsai.vscode-jupyter-slideshow
+    uuid: e153ca70-b543-4865-b4c5-b31d34185948
   - id: REditorSupport.r
     uuid: 4dfff9f4-ff9b-47bb-b0d1-c54e18d8febb
   - id: snakemake.snakemake-lang
