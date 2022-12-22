@@ -8,6 +8,8 @@ enabled:
     uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
   - id: James-Yu.latex-workshop
     uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
+  - id: marp-team.marp-vscode
+    uuid: a6226409-c077-4199-9efe-5fd4d91a253d
   - id: ms-azuretools.vscode-docker
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: ms-python.isort
@@ -28,7 +30,7 @@ enabled:
     uuid: e153ca70-b543-4865-b4c5-b31d34185948
   - id: REditorSupport.r
     uuid: 4dfff9f4-ff9b-47bb-b0d1-c54e18d8febb
-  - id: snakemake.snakemake-lang
-    uuid: 10b2f8fd-49e1-48ef-a99a-5024454419fc
   - id: vscode-icons-team.vscode-icons
     uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
